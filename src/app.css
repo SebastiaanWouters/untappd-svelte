@@ -1,0 +1,11 @@
+@import "https://unpkg.com/open-props";
+
+/* optional imports that use the props */
+@import "https://unpkg.com/open-props/normalize.min.css";
+
+html, body, #app {
+  height: 100vh;
+  min-height: 100vh;
+  min-width: 100vw;
+  width: 100vw;
+}
